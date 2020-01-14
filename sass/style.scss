@@ -542,7 +542,7 @@ header{
 		height: 80px;
 		display: table;
 		text-align: center;
-		background: lighten($brand-black,96%);
+		// background: lighten($brand-black,96%);
 		@include border-radius(50%);
 		i{ 
 			display: table-cell;
