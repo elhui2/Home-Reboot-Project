@@ -283,7 +283,7 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 #colorlib-hero .flexslider .flex-control-nav {
@@ -347,8 +347,7 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
 
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
   margin-bottom: 50px;
-  font-size: 60px;
-  line-height: 1.3;
+  font-size: 52px;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.9);
 }
@@ -430,7 +429,7 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
 }
 
 .intro-heading {
-  margin-bottom: 3em;
+  margin-bottom: 2em;
 }
 
 .intro-heading h2 {
@@ -931,7 +930,6 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
 
 #colorlib-testimony {
   position: relative;
-  background: #fafafa;
 }
 
 #colorlib-testimony .testimony-slide {
