@@ -102,6 +102,7 @@ $form-group-margin-bottom: 30px !default;
 *
 * ======================================================= */
 
+
 // Template Base
 body {
 	font-family: $font-primary;
@@ -1063,6 +1064,12 @@ header{
 		box-shadow: none!important;
 		outline: none!important;
 	}
+	span{
+		color: white;
+	}
+	.icon{
+		margin-right: 10px;
+	}
 }
 .btn-primary {
 	background: $brand-primary;
@@ -1487,4 +1494,11 @@ input[type="text"] {
 	.js & {
 		opacity: 0;
 	}
+}
+
+
+/*Clases Adicionales*/
+
+.secondary-pages-top-gap{
+	height: 80px;
 }

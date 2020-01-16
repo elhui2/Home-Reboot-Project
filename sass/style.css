@@ -1122,6 +1122,14 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
   outline: none !important;
 }
 
+.btn span {
+  color: white;
+}
+
+.btn .icon {
+  margin-right: 10px;
+}
+
 .btn-primary {
   background: #ea831c;
   color: #fff;
@@ -1582,5 +1590,10 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
+}
+
+/*Clases Adicionales*/
+.secondary-pages-top-gap {
+  height: 80px;
 }
 /*# sourceMappingURL=style.css.map */
